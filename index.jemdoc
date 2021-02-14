@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU}{index.html}
+= Felix Cheysson
+
+~~~
+{}{img_left}{Felix.jpg}{}{150px}{225px}{}
+Postdoctoral researcher at Sorbonne Université\n
+Laboratoire de Probabilités, Statistique\n
+et Modélisation (LPSM, UMR 8001)
+
+== Contact
+
+Sorbonne Université\n
+Bureau XXX, Tour 15-25\n
+4 Place Jussieu 75005 Paris\n
+email: felix dot cheysson at sorbonne dash universite dot fr
+~~~
+
+== Research interests
+
+- Point processes and Hawkes processes
+- Spectral approaches to inference
+- Statistical modelling of spatial data
+- Epidemiology and cellular biology
+
+== Past academic experiences
+
+- 2019--2020, *ATER*, /AgroParisTech/.\n
+  UMR MIA-Paris, team Modélisation et Risque en Statistique Environnementale.\n
+  Keywords: Hawkes processes --- Weak dependence --- Whittle estimation.
+- 2016--2020, *PhD*, /AgroParisTech -- Institut Pasteur -- Université Paris Sud/.\n
+  Under the supervision of Laurence Watier (Inserm, Université Paris Saclay) and Gabriel Lang (AgroParisTech, Université Paris Saclay).\n
+  Keywords: Hawkes processes --- Time series --- Epidemiology.
+- 2015--2016, *Research engineer*, /Institut Pasteur -- Inserm/.\n
+  UMR 1181, team Echappement aux anti-infectieux et pharmacoépidémiologie.\n
+  Keywords: Time series --- Bayesian inference.
+- 2014, *MSc internship*, /Institut Pasteur -- Inserm/.\n
+  UMR 1181, team Echappement aux anti-infectieux et pharmacoépidémiologie.\n
+  Keywords: Spatial statistics --- Space-Time ARMA --- Kalman filter.

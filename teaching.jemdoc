@@ -1,0 +1,32 @@
+# jemdoc: menu{MENU}{teaching.html}
+= Teaching
+
+This is the overview of my teaching.
+
+== ATER, AgroParisTech, 2019--2020
+
+- Core curriculum of statistics, 2nd year (lectures\/tutorials\/practicals, 80h).\n
+Topics: Principal component analysis --- Multiple linear regression --- AN(C)OVA --- Project monitoring.
+- Core curriculum of statistics, 1st year (tutorials, 45h).\n
+Topics: Maximum likelihood estimation --- Confidence intervals --- Hypothesis tests --- Simple linear regression.
+- Support sessions for parallel admission students (15h).
+- Generalised linear model and unsupervised classification (practicals, 6h).
+
+== Teaching assistant, AgroParisTech, 2016--2019
+
+- Core curriculum of statistics, 1st year (tutorials, 45h\/year).\n 
+Topics: Maximum likelihood estimation --- Confidence intervals --- Hypothesis tests --- Simple linear regression.
+- Introduction to R and to linear regression models (practicals, 18h\/year).
+
+== Others
+
+- 2016--2021, *Université Paris Sud*, /MSc Research in public health/.\n
+[serc.html Introduction to time series analysis] (lectures, 6h\/year, 3 years; and practicals, 12h\/year, 5 years).
+- 2019--2021, *ENSTA*, /Engineering curriculum/.\n
+Introduction to probability and statistics, 1st year (tutorials, 30h\/year).
+- 2016--2019, *Institut Pasteur*, /Tutorials for researchers/.\n
+Introduction to biostatistics (15h).
+- 2017--2019, *MATh.en.JEANS*, /Collège la Rose Blanche/.\n
+Initiation and sensibilisation of secondary school students to research in mathematics (24h\/year).
+- 2015--2016, *Lycée Montaigne*, /Preparatory classes for "Grandes Ecoles"/.\n
+Examiner for oral interrogations in mathematics (64h).

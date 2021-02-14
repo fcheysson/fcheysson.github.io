@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{serc.html}
+= Module "Séries chronologiques"
+
+Ce cours est une introduction à l'analyse des séries temporelles en santé publique.
+
+#- Connaitre les hypothèses sous-jacentes aux modèles de séries temporelles.
+#- Comprendre les résultats mathématiques nécessaires à l'étude de ces modèles.
+
+#- Savoir reconnaître lorsqu'un modèle de série chronologique est nécessaire.
+#- Apprendre à modéliser des données sous R.
+
+== Supports de cours
+
+- [serc/serc.pdf Slides]
+- R. H. Shumway and D. S. Stoffer, [https://www.stat.pitt.edu/stoffer/tsa4/tsa4.pdf Time Series Analysis and Its Applications, 4th ed]. Springer, 2011.
+
+== Devoirs
+
+- [serc/devoir20-21.pdf 2020--2021], [serc/pone.0242268.pdf article], [serc/covid19.csv covid19], [serc/temperatures.csv températures].
+- [serc/devoir19-20.pdf 2019--2020], [serc/atb.RData données].
+- [serc/devoir18-19.pdf 2018--2019], [serc/bloomsnslabs.csv données].
