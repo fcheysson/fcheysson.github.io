@@ -47,7 +47,7 @@ body {
 }
 
 tt {
-    background: #ffffdd;
+    background: #f6f6f6;
 }
 
 pre, tt {
@@ -238,19 +238,21 @@ div.codeblock, div.infoblock {
 }
 
 div.blocktitle {
-	font-weight: bold;
-	color: #cd7b62;
+	/* font-weight: bold; */
+	width: 81%;
+	color: #000000;
 	margin-top: 1.2em;
 	margin-bottom: 0.1em;
 }
 
 div.blockcontent {
+	width: 75%;
 	border: 1px solid silver;
 	padding: 0.3em 0.5em;
 }
 
 div.infoblock > div.blockcontent {
-	background: #ffffee;
+	background: #f6f6f6;
 }
 
 div.blockcontent p + ul, div.blockcontent p + ol {
@@ -365,4 +367,8 @@ img {
 table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
+}
+
+button {
+	border-radius: 7.5%
 }
