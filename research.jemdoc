@@ -4,11 +4,11 @@
 I am currently a postdoctoral researcher at Sorbonne Université, in the Laboratoire de Probabilités, Statistique et Modélisation.
 My current research, in collaboration with Olivier Lopez (Sorbonne Université) and Pierre-Yves Boëlle (Pierre Louis Institute of Epidemiology and Public Health), focuses on online estimation of Covid-19 death rates from hospital data, using statistical tools derived from survival analysis, non-parametric estimation and maximum likelihood estimation. 
 
+Recently, I have collaborated with biologists of Institut Pasteur (Laure Bally-Cuif, Nicolas Dray) and modellers of Tel Aviv University (David Sprinzak) to study the coordination of adult neural stem cells in zebrafish, using spatial statistics to highlight the existence of cell-cell inhibitory cues in the homeostasis of neural stem cells.
+
 In 2020, I defended a PhD thesis in biostatistics, supervised by Laurence Watier (Inserm, Université Paris Saclay) and Gabriel Lang (AgroParisTech, Université Paris Saclay).
 It focused on some statistical problems encountered when working with aggregate data in public health.
 Specifically, I developped a spectral approach for the parametric inference of Hawkes processes from count data sampled in discrete time.
-
-Recently, I have also collaborated with biologists of Institut Pasteur (Laure Bally-Cuif, Nicolas Dray) to study the coordination of adult neural stem cells in zebrafish, using spatial statistics to highlight the existence of cell-cell inhibitory cues in the homeostasis of neural stem cells.
 
 == Selected publications
 

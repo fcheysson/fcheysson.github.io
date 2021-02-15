@@ -1,13 +1,19 @@
 # jemdoc: menu{MENU}{serc.html}
 = Module "Séries chronologiques"
 
-Ce cours est une introduction à l'analyse des séries temporelles en santé publique.
+Ce module est une introduction à l'analyse des séries temporelles en santé publique.
+12h de TP sous R accompagnent les 6h de cours plus théoriques.
 
-#- Connaitre les hypothèses sous-jacentes aux modèles de séries temporelles.
-#- Comprendre les résultats mathématiques nécessaires à l'étude de ces modèles.
+Objectifs théoriques du module :
+- Connaitre les hypothèses sous-jacentes aux modèles de séries temporelles.
+- Comprendre les résultats mathématiques nécessaires à l'étude de ces modèles.
 
-#- Savoir reconnaître lorsqu'un modèle de série chronologique est nécessaire.
-#- Apprendre à modéliser des données sous R.
+Objectifs pratiques du module :
+- Identifier la nécessité d'un modèle de séries temporelles.
+- Savoir modéliser les séries temporelles simples (modèles SARIMA).
+- Reconnaitre les limites de ces modèles.
+
+L'évaluation du module est basée sur un devoir maison, qui comporte généralement une partie de cours, une partie théorique et une dernière partie appliquée.
 
 == Supports de cours
 
