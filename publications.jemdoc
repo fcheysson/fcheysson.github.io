@@ -3,8 +3,8 @@
 
 == Scientific articles
 
-- *Outpatient antibiotic use attributable to viral acute lower respiratory tract infections during the cold season*. F. Cheysson, C. Brun-Buisson, L. Opatowski, L. Le Fouler, C. Caserio-Schönemann, I. Pontais, D. Guillemot, L. Watier. In revision.
-- [https://arxiv.org/abs/2003.04314 *Strong mixing condition for Hawkes processes and application to Whittle estimation from count data*]. F. Cheysson, G. Lang. In revision.
+- [https://arxiv.org/abs/2003.04314 *Strong mixing condition for Hawkes processes and application to Whittle estimation from count data*]. F. Cheysson, G. Lang. Accepted pending major revision.
+- *Outpatient antibiotic use attributable to viral acute lower respiratory tract infections during the cold season*. F. Cheysson, C. Brun-Buisson, L. Opatowski, L. Le Fouler, C. Caserio-Schönemann, I. Pontais, D. Guillemot, L. Watier. Accepted pending minor revision.
 - [https://www.biorxiv.org/content/10.1101/2020.07.15.205021v1 *Dynamic spatio-temporal coordination of adult neural stem cell fate decisions through local feedback*]. N. Dray\*, L. Mancini\*, U. Binstock\*, F. Cheysson\*, W. Supatto, S. Bedu, S. Herbert, J.-B. Masson, J.-Y. Tinevez, G. Lang, E. Beaurepaire, D. Sprinzak, L. Bally-Cuif. To appear in /Cell Stem Cell/.\n \* These authors contributed equally to this publication.
 - [https://academic.oup.com/aje/article/188/8/1466/5421028 *Pneumococcal Conjugate Vaccine Impact Against Pneumococcal Meningitis: An Analysis of French Administrative Areas 2001–2016*]. A. Alari, F. Cheysson, L. Le Fouler, P. Lanotte, E. Varon, L. Opatowski, D. Guillemot, L. Watier. /American Journal of Epidemiology/, 188(8):1466-1474, 2019.
 - [https://onlinelibrary.wiley.com/doi/10.1002/sim.7818 *Estimation of exposure-attributable fractions from time series: A simulation study*]. F. Cheysson, M. A. Vibet, D. Guillemot, L. Watier. /Statistics in medicine/, 37(24):3437-3454, 2018.
@@ -15,5 +15,5 @@
 
 == R packages
 
-- [https://github.com/fcheysson/hawkesbow *R package for the estimation of HAWKES processes from Binned Observations using Whittle likelihood*]. F. Cheysson.
+- [https://github.com/fcheysson/hawkesbow *hawkesbow: R package for the estimation of HAWKES processes from Binned Observations using Whittle likelihood*]. F. Cheysson.
 - [https://cran.r-project.org/web/packages/starma/index.html *starma: Modelling Space Time AutoRegressive Moving Average (STARMA) Processes*]. F. Cheysson. /CRAN/, R package version 1.3, 2016.
