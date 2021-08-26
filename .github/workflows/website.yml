@@ -1,0 +1,19 @@
+name: build-website
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Setup Python
+        uses: actions/setup-python@v2
+      - name: Generate html files from *.jemdoc
+        run: for i in $(ls *.jemdoc); do jemdoc.py "$i"; done
+      - name: GitHub Pages action
+        uses: peaceiris/actions-gh-pages@v3
