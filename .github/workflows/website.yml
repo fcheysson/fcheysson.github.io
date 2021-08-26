@@ -16,6 +16,18 @@ jobs:
         with:
            python-version: 3.6
       - name: Generate html files from *.jemdoc
-        run: for i in $(ls *.jemdoc); do sudo ./jemdoc.py "$i"; done
-      - name: GitHub Pages action
-        uses: peaceiris/actions-gh-pages@v3
+        shell: bash -l {0} 
+        run: |
+            chmod +x jemdoc.py
+            for i in $(ls *.jemdoc); do ./jemdoc.py "$i"; done
+            mkdir _build
+            mv *.html _build
+            
+      - name: Deploying article on github pages
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: _build
+          CLEAN: true
+          
