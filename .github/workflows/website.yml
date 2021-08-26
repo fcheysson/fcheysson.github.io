@@ -16,6 +16,6 @@ jobs:
         with:
            python-version: 3.6
       - name: Generate html files from *.jemdoc
-        run: for i in $(ls *.jemdoc); do ./jemdoc.py "$i"; done
+        run: for i in $(ls *.jemdoc); do sudo ./jemdoc.py "$i"; done
       - name: GitHub Pages action
         uses: peaceiris/actions-gh-pages@v3
