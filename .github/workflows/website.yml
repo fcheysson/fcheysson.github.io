@@ -22,6 +22,8 @@ jobs:
             for i in $(ls *.jemdoc); do ./jemdoc.py "$i"; done
             mkdir _build
             mv *.html _build
+            mv docs/* _build
+            mv jemdoc.css _build
       - name: Deploying article on github pages
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
