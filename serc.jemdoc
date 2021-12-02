@@ -20,6 +20,11 @@ L'évaluation du module est basée sur la réalisation d'un court quiz portant s
 - [serc/serc.pdf Slides]
 - R. H. Shumway and D. S. Stoffer, [http://pzs.dstu.dp.ua/DataMining/times/bibl/TimeSeries.pdf Time Series Analysis and Its Applications, 4th ed]. Springer, 2011 (3 premiers chapitres).
 
+== Travaux pratiques
+
+- Jeux de données : [serc/sim.RData sim.RData], [serc/mp.RData mp.RData].
+- Enoncés de TP : [serc/TP1.pdf TP1].
+
 == Devoirs
 
 - [serc/devoir20-21.pdf 2020--2021], [serc/pone.0242268.pdf article], [serc/covid19.csv covid19], [serc/temperatures.csv températures].
