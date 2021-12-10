@@ -24,10 +24,11 @@ L'évaluation du module est basée sur la réalisation d'un court quiz portant s
 == Travaux pratiques
 
 - Jeux de données : [serc/sim.RData sim.RData], [serc/mp.RData mp.RData].
-- Enoncés de TP : [serc/TP1.pdf TP1].
+- Enoncés de TP : [serc/TP1.pdf TP1], [serc/TP2.pdf TP2].
 
 == Devoirs
 
+- [serc/devoir21-22.pdf 2021--2022], [serc/pone.0242268.pdf article], [serc/covid19.csv covid19], [serc/temperatures.csv températures].
 - [serc/devoir20-21.pdf 2020--2021], [serc/pone.0242268.pdf article], [serc/covid19.csv covid19], [serc/temperatures.csv températures].
 - [serc/devoir19-20.pdf 2019--2020], [serc/atb.RData données].
 - [serc/devoir18-19.pdf 2018--2019], [serc/bloomsnslabs.csv données].
@@ -37,3 +38,4 @@ L'évaluation du module est basée sur la réalisation d'un court quiz portant s
 - R package [https://github.com/fcheysson/Acf Acf] : pour permettre d'afficher l'ACF et la PACF sur le même graphique.\n
   Pour l'installer, s'assurer que la librairie +devtools+ est installée sur R, puis lancer la commande :\n
   +devtools::install_github("fcheysson/Acf")+.
+  Alternativement, copiez et exécutez le code de ce [serc/Acf.R fichier] dans votre session R pour importer la fonction +Acf+.
