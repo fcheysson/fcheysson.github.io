@@ -2,7 +2,7 @@
 = Research
 
 I am currently a postdoctoral researcher at Sorbonne Université, in the Laboratoire de Probabilités, Statistique et Modélisation.
-My current research, in collaboration with [https://sites.google.com/view/sitepersonneldolivierlopez/home Olivier Lopez] (Sorbonne Université) and [https://www.iplesp.upmc.fr/fr/team/SUMO Pierre-Yves Boëlle] (Pierre Louis Institute of Epidemiology and Public Health), focuses on online estimation of Covid-19 death rates from hospital data, using statistical tools derived from survival analysis, non-parametric estimation and maximum likelihood estimation. 
+My current research, in collaboration with [https://sites.google.com/view/sitepersonneldolivierlopez/home Olivier Lopez] (Sorbonne Université) and [https://www.iplesp.upmc.fr/fr/team/SUMO Pierre-Yves Boëlle] (Pierre Louis Institute of Epidemiology and Public Health), focuses on estimation of Covid-19 death rates from hospital data, using statistical tools derived from CART trees and U-statistics' theory. 
 
 Recently, I have collaborated with biologists of Institut Pasteur ([https://research.pasteur.fr/fr/member/laure-bally-cuif/ Laure Bally-Cuif], [https://research.pasteur.fr/fr/member/nicolas-dray/ Nicolas Dray]) and modellers of Tel Aviv University ([https://english.tau.ac.il/profile/davidsp David Sprinzak]) to study the coordination of adult neural stem cells in zebrafish, using spatial statistics to highlight the existence of cell-cell inhibitory cues in the homeostasis of neural stem cells.
 
@@ -13,17 +13,17 @@ Specifically, I developped a spectral approach for the parametric inference of H
 == Academic experience
 
 - 2020--present, *Postdoctoral researcher*, /Sorbonne Université/.\n
-  UMR 8001, Laboratoire de Probabilités, Statistique et Modélisation (LPSM).\n
+  CNRS UMR 8001, Laboratoire de Probabilités, Statistique et Modélisation (LPSM).\n
   Keywords: Survival analysis --- Kernel estimation --- Covid-19.
-- 2019--2020, *ATER*, /AgroParisTech/.\n
-  UMR 518 MIA-Paris, team Modélisation et Risque en Statistique Environnementale.\n
+- 2019--2020, *Research and teaching assistant*, /AgroParisTech/.\n
+  INRAE UMR 518 MIA-Paris, team Modélisation et Risque en Statistique Environnementale.\n
   Keywords: Hawkes processes --- Weak dependence --- Whittle estimation.
 - 2016--2020, *PhD*, /AgroParisTech -- Institut Pasteur -- Université Paris Sud/.\n
   Under the supervision of Laurence Watier (Inserm, Université Paris Saclay) and Gabriel Lang (AgroParisTech, Université Paris Saclay).\n
   Keywords: Hawkes processes --- Time series --- Epidemiology.
 - 2015--2016, *Research engineer*, /Institut Pasteur -- Inserm/.\n
-  UMR 1181, team Echappement aux anti-infectieux et pharmacoépidémiologie.\n
+  Inserm UMR 1181, team Echappement aux anti-infectieux et pharmacoépidémiologie.\n
   Keywords: Time series --- Bayesian inference --- Epidemiology.
 - 2014, *MSc internship*, /Institut Pasteur -- Inserm/.\n
-  UMR 1181, team Echappement aux anti-infectieux et pharmacoépidémiologie.\n
+  Inserm UMR 1181, team Echappement aux anti-infectieux et pharmacoépidémiologie.\n
   Keywords: Spatial statistics --- Space-Time ARMA --- Kalman filter.
