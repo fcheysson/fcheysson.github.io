@@ -1,10 +1,11 @@
 # jemdoc: menu{MENU}{research.html}
 = Research
 
-I am currently a postdoctoral researcher at Sorbonne Université, in the Laboratoire de Probabilités, Statistique et Modélisation.
-My current research, in collaboration with [https://sites.google.com/view/sitepersonneldolivierlopez/home Olivier Lopez] (Sorbonne Université) and [https://www.iplesp.upmc.fr/fr/team/SUMO Pierre-Yves Boëlle] (Pierre Louis Institute of Epidemiology and Public Health), focuses on estimation of Covid-19 death rates from hospital data, using statistical tools derived from CART trees and U-statistics' theory. 
+I  am currently a CNRS researcher at Gustave Eiffel University, in the Laboratoire d'Analyse et de Mathématiques Appliquées.
 
-Recently, I have collaborated with biologists of Institut Pasteur ([https://research.pasteur.fr/fr/member/laure-bally-cuif/ Laure Bally-Cuif], [https://research.pasteur.fr/fr/member/nicolas-dray/ Nicolas Dray]) and modellers of Tel Aviv University ([https://english.tau.ac.il/profile/davidsp David Sprinzak]) to study the coordination of adult neural stem cells in zebrafish, using spatial statistics to highlight the existence of cell-cell inhibitory cues in the homeostasis of neural stem cells.
+Recently, I was a postdoctoral researcher at Sorbonne Université, in the Laboratoire de Probabilités, Statistique et Modélisation, where I worked in collaboration with [https://sites.google.com/view/sitepersonneldolivierlopez/home Olivier Lopez] (Sorbonne Université) and [https://www.iplesp.upmc.fr/fr/team/SUMO Pierre-Yves Boëlle] (Pierre Louis Institute of Epidemiology and Public Health) on the estimation of Covid-19 death rates from hospital data, using statistical tools derived from CART trees and U-statistics' theory. 
+
+I am also working with biologists of Institut Pasteur ([https://research.pasteur.fr/fr/member/laure-bally-cuif/ Laure Bally-Cuif], [https://research.pasteur.fr/fr/member/nicolas-dray/ Nicolas Dray]) and modellers of Tel Aviv University ([https://english.tau.ac.il/profile/davidsp David Sprinzak]) to study the coordination of adult neural stem cells in zebrafish, using spatial statistics to highlight the existence of cell-cell inhibitory cues in the homeostasis of neural stem cells.
 
 In 2020, I defended a PhD thesis in biostatistics, supervised by [https://research.pasteur.fr/fr/member/laurence-watier/ Laurence Watier] (Inserm, Université Paris Saclay) and [https://www6.inrae.fr/mia-paris/Equipes/Membres/Gabriel-Lang Gabriel Lang] (AgroParisTech, Université Paris Saclay).
 It focused on some statistical problems encountered when working with aggregate data in public health.
@@ -12,9 +13,11 @@ Specifically, I developped a spectral approach for the parametric inference of H
 
 == Academic experience
 
-- 2020--present, *Postdoctoral researcher*, /Sorbonne Université/.\n
+- 2022--present, *CNRS researcher*, /Université Gustave Eiffel/.\n
+  CNRS UMR 8050, Laboratoire d'Analyse et de Mathématiques Appliquées (LAMA).
+- 2020--2022, *Postdoctoral researcher*, /Sorbonne Université/.\n
   CNRS UMR 8001, Laboratoire de Probabilités, Statistique et Modélisation (LPSM).\n
-  Keywords: Survival analysis --- Kernel estimation --- Covid-19.
+  Keywords: CART trees --- U-statistics --- Covid-19.
 - 2019--2020, *Research and teaching assistant*, /AgroParisTech/.\n
   INRAE UMR 518 MIA-Paris, team Modélisation et Risque en Statistique Environnementale.\n
   Keywords: Hawkes processes --- Weak dependence --- Whittle estimation.
