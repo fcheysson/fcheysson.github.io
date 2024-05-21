@@ -3,8 +3,20 @@
 
 == Scientific articles
 
+=== In probability and statistics (authors in alphabetical order)
+
+- [https://hal.science/hal-04580719v1 *Spectral analysis for noisy Hawkes processes inference*]. A. Bonnet, F. Cheysson, M. Martinez Herrera, M. Sangnier. /Preprint HAL/.
+- [https://hal.science/hal-04292822v1 *Mixing properties for multivariate Hawkes processes*]. O. Boly, F. Cheysson, T. H. Nguyen. /Preprint HAL/.
 - [https://doi.org/10.1214/22-AOS2173 *Spectral estimation of Hawkes processes from count data*]. F. Cheysson, G. Lang. /Annals of Statistics/, 50(3):1722-1746, 2022. \[[papers/AOS2173.pdf pdf]\] \[[https://imstat.org/journals-and-publications/annals-of-statistics/ AOS website]\] 
+
+=== In cellular biology
+
+- [https://doi.org/10.1126/sciadv.adg7519 *Apical size and /deltaA/ expression predict adult neural stem cell decisions along lineage progression*]. L. Mancini, B. Guirao, S. Ortica, M. Labusch, F. Cheysson, V. Bonnet, M. S. Phan, S. Herbert, P. Mahou, E. Menant, S. Bedu, J. Tinevez, C. Baroud, E. Beaurepaire, Y. Bellaiche, L. Bally-Cuif, N. Dray. /Science Advances/, 9(35):eadg7519, 2023.
 - [https://doi.org/10.1016/j.stem.2021.03.014 *Dynamic spatiotemporal coordination of neural stem cell fate decisions occurs through local feedback in the adult vertebrate brain*]. N. Dray\*, L. Mancini\*, U. Binshtok\*, F. Cheysson\*, W. Supatto, S. Bedu, S. Herbert, J.-B. Masson, J.-Y. Tinevez, G. Lang, E. Beaurepaire, D. Sprinzak, L. Bally-Cuif. /Cell Stem Cell/, 28(8):1457-1472.e12, 2021.\n \* These authors contributed equally to this publication.
+
+=== In epidemiology and public health
+
+- [https://doi.org/10.1371/journal.pmed.1004211 *Inappropriate antibiotic prescribing and its determinants among outpatient children in 3 low- and middle-income countries: A multicentric community-based cohort study*]. A. Ardillon, L. Ramblière, E. Kermorvant-Duchemin, T. Sok, A. Z. Zo, J.-B. Diouf, P. Long, S. Lach, F. D. Sarr, L. Borand, F. Cheysson, J.-M. Collard, P. Herindrainy, A. de Lauzanne, M. Vray, E. Delarocque-Astagneau, D. Guillemot, B.-T. Huynh. /PLoS Med/, 20(6):e1004211, 2023.
 - [https://doi.org/10.1016/j.ijantimicag.2021.106339 *Outpatient antibiotic use attributable to viral acute lower respiratory tract infections during the cold season*]. F. Cheysson, C. Brun-Buisson, L. Opatowski, L. Le Fouler, C. Caserio-Schönemann, I. Pontais, D. Guillemot, L. Watier. /International Journal of Antimicrobial Agents/, 57(6):106339, 2021.
 - [https://doi.org/10.1093/aje/kwz071 *Pneumococcal Conjugate Vaccine Impact Against Pneumococcal Meningitis: An Analysis of French Administrative Areas 2001–2016*]. A. Alari, F. Cheysson, L. Le Fouler, P. Lanotte, E. Varon, L. Opatowski, D. Guillemot, L. Watier. /American Journal of Epidemiology/, 188(8):1466-1474, 2019.
 - [https://doi.org/10.1002/sim.7818 *Estimation of exposure-attributable fractions from time series: A simulation study*]. F. Cheysson, M. A. Vibet, D. Guillemot, L. Watier. /Statistics in medicine/, 37(24):3437-3454, 2018.

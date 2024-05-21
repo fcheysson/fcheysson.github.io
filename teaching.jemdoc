@@ -3,18 +3,24 @@
 
 == Ongoing courses
 
+- 2023--present, *ENSAI*, /MSc Biostatistics/.\n
+Causal inference (lectures, 18h\/year).
 - 2021--present, *Sorbonne Université*, /ISUP/.\n
 Poisson process and spatial point processes (lectures, 30h\/year).
-- 2016--present, *Université Paris Sud*, /MSc Research in public health/.\n
-[serc.html Introduction to time series analysis] (lectures, 6h\/year; and practicals, 12h\/year).
+- 2021--present, *Université Paris Dauphine*, /Executive Master Statistique et Big Data.\n
+Introduction to advanced R tools: /tidyverse/, /ggplot2/, /shiny/ (lectures, 6h\/year).
 
-=== Graduate Program Averroes, Université Paris Saclay, 2020--present
+== Past teaching experiences
+
+=== MSc Research in public health, Université Paris Saclay, 2016--2024
+
+- [serc.html Introduction to time series analysis] (lectures, 6h\/year; and practicals, 12h\/year).
+
+=== Graduate Program Averroes, Université Paris Saclay, 2020--2023
 
 - Medicine-sciences program to bring select candidates to degrees in both medicine and another academic field, towards research.
 - In charge of outlining the refresher courses in mathematics for students enrolled from medical formation.
 - Tutoring of students majoring in maths enrolled from medical formation.
-
-== Past teaching experiences
 
 === Adjunct teacher, ENSTA, 2019--2022
 
@@ -38,6 +44,10 @@ Topics: Maximum likelihood estimation --- Confidence intervals --- Hypothesis te
 
 === Others
 
+- 2023--2024, *Sorbonne Université*, /ISUP/.\n
+Introduction to multivariate data analysis (lectures, 12h).
+- 2022--2023, *Université Gustave Eiffel*, /Master Maths-Info/.\n
+Poisson process and spatial point processes (lectures, 16h).
 - 2016--2019, *Institut Pasteur*, /Tutorials for researchers/.\n
 Introduction to biostatistics (15h).
 - 2017--2019, *MATh.en.JEANS*, /Collège la Rose Blanche/.\n
