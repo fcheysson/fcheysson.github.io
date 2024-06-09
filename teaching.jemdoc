@@ -5,16 +5,18 @@
 
 - 2023--present, *ENSAI*, /MSc Biostatistics/.\n
 Causal inference (lectures, 18h\/year).
-- 2021--present, *Sorbonne Université*, /ISUP/.\n
-Poisson process and spatial point processes (lectures, 30h\/year).
-- 2021--present, *Université Paris Dauphine*, /Executive Master Statistique et Big Data.\n
-Introduction to advanced R tools: /tidyverse/, /ggplot2/, /shiny/ (lectures, 6h\/year).
+- 2021--present, *Université Paris Dauphine*, /Executive Master Statistique et Big Data/.\n
+Introduction to advanced R tools: /tidyverse/, /ggplot2/, /shiny/, /torch/ (lectures, 6h\/year).
 
 == Past teaching experiences
 
 === MSc Research in public health, Université Paris Saclay, 2016--2024
 
 - [serc.html Introduction to time series analysis] (lectures, 6h\/year; and practicals, 12h\/year).
+
+=== M1 Actuariat / Data Science, ISUP, Sorbonne Université, 2021--2024
+
+- Poisson processes and spatial point process analysis (lectures, 30h\/year).
 
 === Graduate Program Averroes, Université Paris Saclay, 2020--2023
 
