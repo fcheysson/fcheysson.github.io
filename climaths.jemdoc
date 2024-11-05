@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{publications.html}
+= Climaths
+
+Avec [https://annabonnet.github.io/ Anna Bonnet], [https://sites.google.com/site/celinehduval/ Céline Duval] et [https://marie-perrotdockes.github.io/ Marie Perrot-Dockès], nous animons un groupe de travail pour proposer et partager du matériel pédagogique qui utilise des bases de données en lien avec l'environnement ou le climat. 
+Si le projet vous intéresse, n'hésitez pas à nous contacter.
+
+Lien vers le dossier partagé (à venir).
+
+== Permafrost
+
+- *Thème* : environnement, climat.
+- *Objectifs* : étudier l'évolution de la fonte du pergélisol (/permafrost/ en anglais) au cours du siècle passé.
+- *Source des données* : [http://gtnpdatabase.org/ GTN-P] (Global Terrestrial Network for Permafrost).
+- *Contenu disponible* : jeu de données, TP R sur la régression linéaire, TP Python sur les tests multiples.
+- *Langages* : R et Python.
+- *Auteur.rice.s* : Céline Duval et Félix Cheysson.
+- *Où les trouver* : [https://github.com/fcheysson/climaths/tree/main/permafrost https:\/\/github.com\/fcheysson\/climaths\/tree\/main\/permafrost]
